@@ -20,6 +20,12 @@ export class GildedRose {
   /*
   changed for loop to -> foreach 
   created constant to readable code
+  
+  ---- Future works:
+  functions can be written for calculations
+  conditions can be expressed with constants
+
+  Note: I chose not doing the futureworks part because I read the expressions more comfortably this way.
   */
   
   
