@@ -9,6 +9,12 @@ const items = [
   new Item("Backstage passes to a TAFKAL80ETC concert", 15, 20),
   new Item("Backstage passes to a TAFKAL80ETC concert", 10, 49),
   new Item("Backstage passes to a TAFKAL80ETC concert", 5, 49),
+  new Item("Backstage passes to a TAFKAL80ETC concert", 0, 10),
+  new Item("Backstage passes to a TAFKAL80ETC concert", 3, 1),
+  new Item("Backstage passes to a TAFKAL80ETC concert", 6, 1),
+  new Item("Backstage passes to a TAFKAL80ETC concert", 11, 1),
+  new Item("foo", 0, 1),
+  new Item("Aged Brie", -10, 10), 
   // this conjured item does not work properly yet
   new Item("Conjured Mana Cake", 3, 6)];
 
